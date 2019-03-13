@@ -5,20 +5,18 @@
 
 - 行内公式$y=\alpha$，$\mathbf{K}$，$\mathscr{B}$
 - 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
-- 分式
-$$\begin{aligned}
+- 分式$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{aligned}$$
-- 
-
-
-$$\begin{patrix}
+- 矩阵$$\begin{pmatrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
-\end{patrix}$$
+\end{pmatrix}$$
+
+
 
 $$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
@@ -162,6 +160,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1ODgzMDQ0OSwtMTk5NTA1ODY3LC0xNz
-Q3MTMxOTk0XX0=
+eyJoaXN0b3J5IjpbLTE0NzkyNDc5MDcsLTE5OTUwNTg2NywtMT
+c0NzEzMTk5NF19
 -->
