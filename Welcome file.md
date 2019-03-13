@@ -10,7 +10,7 @@ H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{aligned}$$
-- 矩阵$$\begin{pmatrix}
+- 简单矩阵$$\begin{pmatrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM2NzgxMzUsLTE5OTUwNTg2NywtMT
+eyJoaXN0b3J5IjpbLTE5OTc1NDk3MzAsLTE5OTUwNTg2NywtMT
 c0NzEzMTk5NF19
 -->
