@@ -3,7 +3,7 @@
 这里将展示如何用 **StackEdit**编写一些基本的数学公式。
 
 
-- 行内公式$y=\alpha$，$\mathbf{B}$，$\mathscr{C}$
+- 行内公式$y=\alpha$（希腊），$\mathbf{B}$（），$\mathscr{C}$，$\mathcal{D}$，$\mathfrak{E}$
 - 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
 - 分式$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDg5NDgzOSwtMTk5NTA1ODY3LC0xNz
-Q3MTMxOTk0XX0=
+eyJoaXN0b3J5IjpbMzE4MDYzNTgsLTE5OTUwNTg2NywtMTc0Nz
+EzMTk5NF19
 -->
