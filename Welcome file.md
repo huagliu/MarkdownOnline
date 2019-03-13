@@ -1,6 +1,6 @@
-# Welcome to StackEdit!
+# StackEdit数学公式
 
-Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+这里将展示ru he **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -10,12 +10,13 @@ StackEdit stores your files in your browser, which means all your files are auto
 行内公式$y=\alpha$ $\mathbf{K}$ $\mathscr{B}$
 单行公式$$x= \int y(t){\rm d}t $$
 
+
 $$
-\begin{split}
+\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{split}
+\end{aligned}
 $$
 
 
@@ -167,6 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjM2OTA0OTMsLTE3NDcxMzE5OTRdfQ
-==
+eyJoaXN0b3J5IjpbNzg0MzYyNDg2LC0xNzQ3MTMxOTk0XX0=
 -->
