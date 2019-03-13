@@ -18,7 +18,7 @@ H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
 &=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{align}
 $$
-
+![enter image description here](https://github.com/huagliu/MarkdownOnline/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-13%20%E4%B8%8B%E5%8D%881.02.32.png)
 $$\begin{matrix}
 1&0&0\\
 0&1&0\\
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQwOTUxOTQsMzI0NjY4NzI4LC0xMz
-I0MDk1MTk0XX0=
+eyJoaXN0b3J5IjpbLTIwNTMwNDY3NDAsLTEzMjQwOTUxOTQsMz
+I0NjY4NzI4XX0=
 -->
