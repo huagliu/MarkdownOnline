@@ -10,7 +10,6 @@ StackEdit stores your files in your browser, which means all your files are auto
 行内公式$y=\alpha$
 单行公式$$x= \int y(t){\rm d}t $$
 
-
 $$
 \begin{align}
 H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
@@ -168,6 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzI5MjAxMiwtMTk0NDYwMTU5MiwtMT
-MyNDA5NTE5NCwzMjQ2Njg3MjhdfQ==
+eyJoaXN0b3J5IjpbLTE3NDcxMzE5OTRdfQ==
 -->
