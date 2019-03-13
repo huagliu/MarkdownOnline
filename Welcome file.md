@@ -5,7 +5,7 @@
 
 - 行内公式$y=\alpha$（希腊），$\mathbf{B}$（正体加粗），$\mathscr{C}$（剧本字体），$\mathcal{D}$（手写），$\mathfrak{E}$（德国）
 - 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
-- 分式$$\begin{aligned}
+- 多行公式$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgzMzgwMjIxLC0xOTk1MDU4NjcsLTE3ND
-cxMzE5OTRdfQ==
+eyJoaXN0b3J5IjpbLTE3MjM2NzgxMzUsLTE5OTUwNTg2NywtMT
+c0NzEzMTk5NF19
 -->
