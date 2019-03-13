@@ -15,7 +15,9 @@ H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 0&1&0\\
 0&0&1\\
 \end{pmatrix}$$
-
+- 复杂公式
+$$\begin{bmatrix}
+1 & a _1 & a _1 ^2 
 
 
 $$\begin{array}{c|lll}
@@ -160,6 +162,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkyNDc5MDcsLTE5OTUwNTg2NywtMT
-c0NzEzMTk5NF19
+eyJoaXN0b3J5IjpbODg2ODQ1NTkzLC0xOTk1MDU4NjcsLTE3ND
+cxMzE5OTRdfQ==
 -->
