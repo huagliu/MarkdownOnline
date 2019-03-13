@@ -1,20 +1,52 @@
+
+---
+title: StackEdit数学公式
+date: 2019-03-13
+tags: 公式测试
+categories: Math
+mathjax: true
+
+---
 # StackEdit数学公式
 
 这里将展示如何用 **StackEdit**编写一些基本的数学公式。
 
 
-- 行内公式$y=\alpha$（希腊），$\mathbf{B}$（正体加粗），$\mathscr{C}$（剧本字体），$\mathcal{D}$（手写），$\mathfrak{E}$（德国）
+- 行内公式$y=\alpha_1$（希腊），$\mathbf{B}$（正体加粗），$\mathscr{C}$（剧本字体），$\mathcal{D}$（手写），$\mathfrak{E}$（德国）
 - 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
-- 多行公式$$\begin{aligned}
+- 多行公式
+	- 使用"aligned":
+	$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{aligned}$$
-- 简单矩阵$$\begin{pmatrix}
+
+	- 使用"equation+split":
+$$
+\begin{equation}\begin{split}
+H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
+&=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+&=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+\end{split}\end{equation}
+$$
+	- 使用"eqnarray":(Maxwell equs)
+	$$
+\begin{eqnarray}
+\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon0} \\
+\nabla\cdot\vec{B} &=& 0 \\
+\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\
+\nabla\times\vec{B} &=& \mu0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)
+\end{eqnarray}
+$$
+
+- 简单矩阵
+$$\begin{pmatrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
 \end{pmatrix}$$
+
 - 复杂矩阵
 $$\begin{bmatrix}
 1 & a _1 & a _1 ^2 & \cdots  & a _1 ^n \\
@@ -23,21 +55,16 @@ $$\begin{bmatrix}
 1 & a _n & a _n ^2 & \cdots & a _n ^n \\
 \end{bmatrix}
 $$
-- 表格$$\begin{array}{c|lll}
+
+- 表格
+$$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
 \hline
 {R_1}&{c}&{b}&{a}\\
 {R_2}&{b}&{c}&{c}\\
 \end{array}$$
-- Maxwell Equations
-$$  
-\begin{eqnarray}  
-\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\ 
-\nabla\cdot\vec{B} &=& 0 \\  
-\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\  
-\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)  
-\end{eqnarray}  
-$$
+
+
 
 
 
@@ -169,6 +196,8 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
+eyJoaXN0b3J5IjpbMTc1NDkyMjAzNywxMzI3NTQ5Mjk5LDI2Nj
+k4MjAzMF19
 -->
