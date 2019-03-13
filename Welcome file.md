@@ -19,7 +19,6 @@ H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
 \end{align}
 $$
 
-![enter image description here](https://github.com/huagliu/MarkdownOnline/blob/master/%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-03-13%20%E4%B8%8B%E5%8D%881.02.32.png)
 
 $$\begin{matrix}
 1&0&0\\
@@ -169,6 +168,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDQ2MDE1OTIsLTEzMjQwOTUxOTQsMz
-I0NjY4NzI4XX0=
+eyJoaXN0b3J5IjpbLTk0MzI5MjAxMiwtMTk0NDYwMTU5MiwtMT
+MyNDA5NTE5NCwzMjQ2Njg3MjhdfQ==
 -->
