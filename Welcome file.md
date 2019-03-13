@@ -1,14 +1,10 @@
 # StackEdit数学公式
 
-这里将展示如何用 **StackEdit**编写一些基本的Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+这里将展示如何用 **StackEdit**编写一些基本的数学公式。
 
 
-# Files
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
-
-行内公式$y=\alpha$ $\mathbf{K}$ $\mathscr{B}$
-单行公式$$x= \int y(t){\rm d}t $$
+- 行内公式$y=\alpha$ $\mathbf{K}$ $\mathscr{B}$
+- 单行公式$$x= \int y(t){\rm d}t $$
 
 
 $$
@@ -168,5 +164,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUwNTg2NywtMTc0NzEzMTk5NF19
+eyJoaXN0b3J5IjpbMTk1MjIzNzA1OSwtMTk5NTA1ODY3LC0xNz
+Q3MTMxOTk0XX0=
 -->
