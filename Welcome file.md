@@ -15,12 +15,12 @@ H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 0&1&0\\
 0&0&1\\
 \end{pmatrix}$$
-- 复杂公式
+- 复杂矩阵
 $$\begin{bmatrix}
 1 & a _1 & a _1 ^2 & \cdots  & a _1 ^n \\
 1 & a _2 & a _2 ^2 & \cdots  & a _2 ^n \\
 \vdots & \vdots & \vdots & \ddots & \vdots \\
-1 & a _n & a _n ^2 \cdots & a _n ^n \\
+1 & a _n & a _n ^2 & \cdots & a _n ^n \\
 \end{bmatrix}
 $$
 
@@ -167,6 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYxOTc2NDksLTE5OTUwNTg2NywtMT
-c0NzEzMTk5NF19
+eyJoaXN0b3J5IjpbMTYwMTIyNDY0MCwtMTk5NTA1ODY3LC0xNz
+Q3MTMxOTk0XX0=
 -->
