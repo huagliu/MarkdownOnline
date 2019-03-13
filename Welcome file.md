@@ -3,24 +3,22 @@
 这里将展示如何用 **StackEdit**编写一些基本的数学公式。
 
 
-- 行内公式$y=\alpha$ $\mathbf{K}$ $\mathscr{B}$
-- 单行公式$$x= \int y(t){\rm d}t $$
-
-
-$$
-\begin{aligned}
+- 行内公式$y=\alpha$，$\mathbf{K}$，$\mathscr{B}$
+- 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
+- 分式
+$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 & = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{aligned}
-$$
+\end{aligned}$$
+- 
 
 
-$$\begin{matrix}
+$$\begin{patrix}
 1&0&0\\
 0&1&0\\
 0&0&1\\
-\end{matrix}$$
+\end{patrix}$$
 
 $$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
@@ -164,6 +162,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjIzNzA1OSwtMTk5NTA1ODY3LC0xNz
+eyJoaXN0b3J5IjpbMTY1ODgzMDQ0OSwtMTk5NTA1ODY3LC0xNz
 Q3MTMxOTk0XX0=
 -->
