@@ -29,7 +29,15 @@ $$
 {R_1}&{c}&{b}&{a}\\
 {R_2}&{b}&{c}&{c}\\
 \end{array}$$
-
+- Maxwell Equations
+$$  
+\begin{eqnarray}  
+\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon_0} \\ 
+\nabla\cdot\vec{B} &=& 0 \\  
+\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\  
+\nabla\times\vec{B} &=& \mu_0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)  
+\end{eqnarray}  
+$$
 
 
 
@@ -162,5 +170,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMxNTY2NDAsMjY2OTgyMDMwXX0=
+eyJoaXN0b3J5IjpbMTMyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
 -->
