@@ -18,7 +18,6 @@ H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
 &=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{align}
 $$
-
 $$\begin{matrix}
 1&0&0\\
 0&1&0\\
@@ -167,5 +166,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQwOTUxOTRdfQ==
+eyJoaXN0b3J5IjpbMzI0NjY4NzI4LC0xMzI0MDk1MTk0XX0=
 -->
