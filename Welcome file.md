@@ -7,12 +7,12 @@ Hi! I'm your first Markdown file in **StackEdit**. If you want to learn about St
 
 StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
 
-行内公式$y=\alpha$
+行内公式$y=\alpha$ $\mathbf{K}$ $\mathscr{B}$
 单行公式$$x= \int y(t){\rm d}t $$
 
 $$
 \begin{align}
-H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
+H(Y|X)&= \sum_{x\in X} p(x)H(Y|X)\\
 &=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
 &=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
 \end{align}
@@ -167,5 +167,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDcxMzE5OTRdfQ==
+eyJoaXN0b3J5IjpbLTMxNTQ5MTI4NywtMTc0NzEzMTk5NF19
 -->
