@@ -1,6 +1,6 @@
 # StackEdit数学公式
 
-这里将展示ru he **StackEdit**. If you want to learn about StackEdit, you can read me. If you want to play with Markdown, you can edit me. Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
+这里将展示如何用 **StackEdit**编写一些基本的Once you have finished with me, you can create new files by opening the **file explorer** on the left corner of the navigation bar.
 
 
 # Files
@@ -168,5 +168,5 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0MzYyNDg2LC0xNzQ3MTMxOTk0XX0=
+eyJoaXN0b3J5IjpbLTE5OTUwNTg2NywtMTc0NzEzMTk5NF19
 -->
