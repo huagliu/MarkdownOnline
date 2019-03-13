@@ -11,11 +11,11 @@ StackEdit stores your files in your browser, which means all your files are auto
 单行公式$$x= \int y(t){\rm d}t $$
 
 $$
-\begin{align}
-H(Y|X)&= \sum_{x\in X} p(x)H(Y|X)\\
-&=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
-&=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{align}
+\begin{split}
+H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
+& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+\end{split}
 $$
 
 
@@ -167,5 +167,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQ5MTI4NywtMTc0NzEzMTk5NF19
+eyJoaXN0b3J5IjpbLTIwMjM2OTA0OTMsLTE3NDcxMzE5OTRdfQ
+==
 -->
