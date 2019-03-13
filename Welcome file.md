@@ -44,13 +44,7 @@ All your files are listed in the file explorer. You can switch from one to anoth
 
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
-## Delete a file
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
-
-## Export a file
-
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
 
 
 # Synchronization
@@ -167,6 +161,6 @@ B --> D{Rhombus}
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc1NDk3MzAsLTE5OTUwNTg2NywtMT
-c0NzEzMTk5NF19
+eyJoaXN0b3J5IjpbMjY2OTgyMDMwLC0xOTk3NTQ5NzMwLC0xOT
+k1MDU4NjcsLTE3NDcxMzE5OTRdfQ==
 -->
