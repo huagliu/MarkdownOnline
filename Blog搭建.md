@@ -6,7 +6,7 @@ categories: Blog Setup
 mathjax: false
 
 ---
-本文将简略介绍利用Github和Hexo搭建本地Blog的方法。需要注意，请按照文中各部给出的**链接**进行搭建，以免踩坑。本文框架为：
+本文将简略介绍利用Github和Hexo搭建本地Blog的方法。需要注意，请按照文中各部分给出的**链接**进行搭建，以免踩坑。本文框架为：
 
 - 基本准备；
 - 搭建流程；
@@ -61,5 +61,5 @@ top: （文章是否置顶）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NzI2OTA3XX0=
+eyJoaXN0b3J5IjpbNjc3NTQwNTM1LDY2NjcyNjkwN119
 -->
