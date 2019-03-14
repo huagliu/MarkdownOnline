@@ -21,7 +21,7 @@ Hexo博文的编写主要基于**Markdown**语言。**StackEdit**作为一款在
 
 - 行内公式$y=\alpha_1$（希腊），$\mathbf{B}$（粗体），$\mathscr{C}$（剧本字体），$\mathcal{D}$（手写），$\mathfrak{E}$（德国），$\mathbb{R}$（黑板粗体）
 
->md代码：
+>代码：
 ```
 $y=\alpha_1$（希腊），
 $\mathbf{B}$（粗体），
@@ -95,7 +95,14 @@ $$\begin{pmatrix}
 0&1&0\\
 0&0&1\\
 \end{pmatrix}$$
-
+>代码：
+```
+$$\begin{pmatrix}
+1&0&0\\
+0&1&0\\
+0&0&1\\
+\end{pmatrix}$$
+```
 - 复杂矩阵
 $$\begin{bmatrix}
 1 & a _1 & a _1 ^2 & \cdots  & a _1 ^n \\
@@ -104,7 +111,15 @@ $$\begin{bmatrix}
 1 & a _n & a _n ^2 & \cdots & a _n ^n \\
 \end{bmatrix}
 $$
-
+>代码：
+```$$\begin{bmatrix}
+1 & a _1 & a _1 ^2 & \cdots  & a _1 ^n \\
+1 & a _2 & a _2 ^2 & \cdots  & a _2 ^n \\
+\vdots & \vdots & \vdots & \ddots & \vdots \\
+1 & a _n & a _n ^2 & \cdots & a _n ^n \\
+\end{bmatrix}
+$$
+```
 
 ## 简单图表
 - 使用"array"
@@ -146,8 +161,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzQ1MDMzLDEzMzczNTU0NCwxNjg2Mz
-czNzI3LDE0MTMxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMs
-LTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
-c1NDkyOTksMjY2OTgyMDMwXX0=
+eyJoaXN0b3J5IjpbLTYzMTQ1OTI0NCwxMzM3MzU1NDQsMTY4Nj
+M3MzcyNywxNDEzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAz
+LC0xOTkzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMz
+I3NTQ5Mjk5LDI2Njk4MjAzMF19
 -->
