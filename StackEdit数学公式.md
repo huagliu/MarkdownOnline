@@ -166,6 +166,19 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
+>代码：（z）
+```
+...mermaid
+sequenceDiagram
+Alice ->> Bob: Hello Bob, how are you?
+Bob-->>John: How about you John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+...
+```
 
 - 使用"mermaid"中的"graph LR"画流程图
 ```mermaid
@@ -177,8 +190,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODcxNzI4NSwxMzM3MzU1NDQsMTY4Nj
-M3MzcyNywxNDEzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAz
-LC0xOTkzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMz
-I3NTQ5Mjk5LDI2Njk4MjAzMF19
+eyJoaXN0b3J5IjpbMTcxNDY2NzAzLDEzMzczNTU0NCwxNjg2Mz
+czNzI3LDE0MTMxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMs
+LTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
+c1NDkyOTksMjY2OTgyMDMwXX0=
 -->
