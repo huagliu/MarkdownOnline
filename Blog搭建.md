@@ -27,7 +27,7 @@ mathjax: false
 ### 对数学公式的支持
 Hexo博客主要基于Markdown语言，而在Markdown语言中输入数学公式一个比较好的方法是使用[MathJax引擎](https://blog.csdn.net/xiahouzuoxin/article/details/26478179)。为了使博客支持MathJax，我们需要配置Hexo渲染MathJax中的数学公式，参见[简书教程](https://www.jianshu.com/p/7ab21c7f0674)和[Hexo博客使用MathJax](http://wangwlj.com/2017/09/21/markdown_mathjax/)。
 
-插一句题外话，由于本地Markdown编译器对MathJax引擎的兼容度不尽人意，因此我选择在[StackEdit](https://stackedit.io/app#)上写md文文档。
+插一句题外话，由于本地Markdown编译器对MathJax引擎的兼容度不尽人意，因此我选择在[StackEdit](https://stackedit.io/app#)上写md文档。
 
 MathJax中的语法类似Tex，一些基本的语法参见[MathJax(Markdown中的公式)的基本使用语法](http://wangwlj.com/2017/10/08/mathjax_basic/)。
 
@@ -63,6 +63,6 @@ top: （文章是否置顶）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDI0NjEwNTEsMTk1ODQ4OTQxLDY2Nj
-cyNjkwN119
+eyJoaXN0b3J5IjpbMTEzMzQxODkyNiwtMjA0MjQ2MTA1MSwxOT
+U4NDg5NDEsNjY2NzI2OTA3XX0=
 -->
