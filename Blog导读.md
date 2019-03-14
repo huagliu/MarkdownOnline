@@ -20,10 +20,10 @@ top: true
 （给自己挖了一个大大大大的坑 [捂脸.jpeg]）
 
 ## 博文的整体框架
-我希望在后面博文中，
+在后面博文中，我将以**定义**－**定理／命题**－**定理／命题解释**－**证明思路**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDU4OTAwLDIwMDE5MDAxNTUsLTE1MD
-c1ODY1MDYsLTI2Mjk0ODQyOF19
+eyJoaXN0b3J5IjpbLTU0MDQ1NzkwOCwyMDAxOTAwMTU1LC0xNT
+A3NTg2NTA2LC0yNjI5NDg0MjhdfQ==
 -->
