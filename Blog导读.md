@@ -16,8 +16,11 @@ top: true
 ## 开Blog目的
 这个Blog主要用于记录和整理一些课上笔记或者自学内容，一些有趣的paper也会在这里进行介绍。
 
-现在有计划的专题有：**泛函分析与PDE**、**同调论与上同调论**、**微分几何基础**、**几何力学基础**。（给自己挖了一个大大大大的坑 [捂脸.jpeg]）
+现在有计划的专题有：**泛函分析与PDE**、**同调论与上同调论**、**微分几何基础**、**几何力学基础**。
+（给自己挖了一个大大大大的坑 [捂脸.jpeg]）
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODA1MTUzMywtMTUwNzU4NjUwNiwtMj
+eyJoaXN0b3J5IjpbMjAwMTkwMDE1NSwtMTUwNzU4NjUwNiwtMj
 YyOTQ4NDI4XX0=
 -->
