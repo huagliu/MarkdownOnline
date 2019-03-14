@@ -94,7 +94,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-
+- 使用"mermaid"中的"graph LR"gou z
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -104,7 +104,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjExMDMwNiwtMTk5MzQxNjUwNCwxOD
+eyJoaXN0b3J5IjpbMTc5MDk1MTQ1NSwtMTk5MzQxNjUwNCwxOD
 YxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNjY5ODIw
 MzBdfQ==
 -->
