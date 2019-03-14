@@ -129,7 +129,15 @@ $$\begin{array}{c|lll}
 {R_1}&{c}&{b}&{a}\\
 {R_2}&{b}&{c}&{c}\\
 \end{array}$$
-
+>代码：
+```
+$$\begin{array}{c|lll}
+{↓}&{a}&{b}&{c}\\
+\hline
+{R_1}&{c}&{b}&{a}\\
+{R_2}&{b}&{c}&{c}\\
+\end{array}$$
+```
 
 - 使用SmartyPants
 
@@ -138,6 +146,14 @@ $$\begin{array}{c|lll}
 |Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+>代码：
+```
+|                |ASCII                          |HTML                         |
+|----------------|-------------------------------|-----------------------------|
+|Single backticks|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
+```
 
 - 使用"mermaid"中的"sequenceDiagram"画顺序图
 ```mermaid
@@ -161,7 +177,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTQ1OTI0NCwxMzM3MzU1NDQsMTY4Nj
+eyJoaXN0b3J5IjpbLTQ4ODcxNzI4NSwxMzM3MzU1NDQsMTY4Nj
 M3MzcyNywxNDEzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAz
 LC0xOTkzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMz
 I3NTQ5Mjk5LDI2Njk4MjAzMF19
