@@ -14,7 +14,7 @@ mathjax: false
 <!-- more -->
 
 ## 基本准备
-1. 申请一个Github账号，并以<Github用户名>.github.io命名一个公开repo；
+1. 申请一个Github账号，并以<Github用户名>.github.io命名一个公开的repo；
 2. 在电脑上安装git、Node.js之后安装Hexo，参见[Hexo官网](https://hexo.io/zh-cn/docs/index.html#安装-Node-js)。
 
 ## 搭建流程
@@ -61,5 +61,5 @@ top: （文章是否置顶）
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NTQwNTM1LDY2NjcyNjkwN119
+eyJoaXN0b3J5IjpbLTE4NTYyNzY0MzksNjY2NzI2OTA3XX0=
 -->
