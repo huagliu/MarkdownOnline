@@ -31,8 +31,19 @@ $\mathfrak{E}$（德国），
 $\mathbb{R}$（黑板粗体）
 ```
 - 单行公式$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
+>代码：
+```
+$$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
+```
 - 多行公式
 	- 使用"aligned":
+	$$\begin{aligned}
+H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
+& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+\end{aligned}$$
+	>代码：
+	```
 	$$\begin{aligned}
 H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
 & = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
@@ -114,8 +125,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzM1NTQ0LDE2ODYzNzM3MjcsMTQxMz
-EyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUwMywtMTk5MzQxNjUw
-NCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNj
-Y5ODIwMzBdfQ==
+eyJoaXN0b3J5IjpbLTk1MzIyNTUxMiwxMzM3MzU1NDQsMTY4Nj
+M3MzcyNywxNDEzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAz
+LC0xOTkzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMz
+I3NTQ5Mjk5LDI2Njk4MjAzMF19
 -->
