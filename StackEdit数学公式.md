@@ -38,26 +38,28 @@ $$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
 - 多行公式
 	- 使用"aligned":
 	$$\begin{aligned}
-H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
-& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
-& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{aligned}$$
+	H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
+	& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+	& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+	\end{aligned}$$
 	>代码：
 	```
 	$$\begin{aligned}
-H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
-& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
-& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{aligned}$$
-
+	H(Y|X)& = \sum_{x\in X} p(x)H(Y|X)\\
+	& = -\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+	& = -\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+	\end{aligned}$$
+	```
 	- 使用"equation+split":
-$$
-\begin{equation}\begin{split}
-H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
-&=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
-&=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
-\end{split}\end{equation}
-$$
+	$$
+	\begin{equation}\begin{split}
+	H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
+	&=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+	&=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+	\end{split}\end{equation}
+	$$
+	>代码：
+	
 	- 使用"eqnarray":(Maxwell equs)
 	$$
 \begin{eqnarray}
@@ -125,8 +127,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzIyNTUxMiwxMzM3MzU1NDQsMTY4Nj
-M3MzcyNywxNDEzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAz
-LC0xOTkzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMz
-I3NTQ5Mjk5LDI2Njk4MjAzMF19
+eyJoaXN0b3J5IjpbOTQ5NTk4MzI4LDEzMzczNTU0NCwxNjg2Mz
+czNzI3LDE0MTMxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMs
+LTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
+c1NDkyOTksMjY2OTgyMDMwXX0=
 -->
