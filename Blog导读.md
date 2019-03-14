@@ -13,7 +13,8 @@ top: true
 - Blog的整体框架。
 <!-- more -->
 
-
+## 开Blog目的
+这个Blog主要用于记录和整理一些课上笔记或者自学内容，wei lai
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTA3NDE5MiwtMjYyOTQ4NDI4XX0=
+eyJoaXN0b3J5IjpbLTEwMzY1NjUxNjksLTI2Mjk0ODQyOF19
 -->
