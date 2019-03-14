@@ -188,10 +188,20 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
+>代码：（这里用' . '代替' ` '）
+```
+...mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+...
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTczODgyMjQsMTMzNzM1NTQ0LDE2OD
-YzNzM3MjcsMTQxMzEyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUw
-MywtMTk5MzQxNjUwNCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMT
-MyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NjUzOTY4MTgsLTExOTczODgyMjQsMT
+MzNzM1NTQ0LDE2ODYzNzM3MjcsMTQxMzEyMTQxLDIwNTkwMDA4
+MjcsLTk3MDk5NjUwMywtMTk5MzQxNjUwNCwxODYxODk4MjM0LD
+E3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
 -->
