@@ -63,7 +63,7 @@ $$\begin{bmatrix}
 $$
 
 
-## 简单表格
+## 简单图表
 - 使用"array"
 $$\begin{array}{c|lll}
 {↓}&{a}&{b}&{c}\\
@@ -105,6 +105,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNz
-U0OTIyMDM3LDEzMjc1NDkyOTksMjY2OTgyMDMwXX0=
+eyJoaXN0b3J5IjpbLTE3ODAyMzU2MTgsLTE5OTM0MTY1MDQsMT
+g2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMjc1NDkyOTksMjY2OTgy
+MDMwXX0=
 -->
