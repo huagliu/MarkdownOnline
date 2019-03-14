@@ -90,7 +90,6 @@ Bob-->>John: How about you John?
 Bob--x Alice: I am good thanks!
 Bob-x John: I am good thanks!
 Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
-
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
@@ -105,7 +104,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzEyMTQxLDIwNTkwMDA4MjcsLTk3MD
-k5NjUwMywtMTk5MzQxNjUwNCwxODYxODk4MjM0LDE3NTQ5MjIw
-MzcsMTMyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
+eyJoaXN0b3J5IjpbMTY4NjM3MzcyNywxNDEzMTIxNDEsMjA1OT
+AwMDgyNywtOTcwOTk2NTAzLC0xOTkzNDE2NTA0LDE4NjE4OTgy
+MzQsMTc1NDkyMjAzNywxMzI3NTQ5Mjk5LDI2Njk4MjAzMF19
 -->
