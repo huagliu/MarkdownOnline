@@ -20,8 +20,9 @@ Hexo博文的编写主要基于**Markdown**语言。**StackEdit**作为一款在
 ## 基本数学公式
 
 - 行内公式$y=\alpha_1$（希腊），$\mathbf{B}$（粗体），$\mathscr{C}$（剧本字体），$\mathcal{D}$（手写），$\mathfrak{E}$（德国），$\mathbb{R}$（黑板粗体）
-``` 
-代码：
+
+>md代码：
+```
 $y=\alpha_1$（希腊），
 $\mathbf{B}$（粗体），
 $\mathscr{C}$（剧本字体），
@@ -113,7 +114,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NTEwMDg2LDE2ODYzNzM3MjcsMTQxMz
+eyJoaXN0b3J5IjpbMTE3MDY0ODgxLDE2ODYzNzM3MjcsMTQxMz
 EyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUwMywtMTk5MzQxNjUw
 NCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNj
 Y5ODIwMzBdfQ==
