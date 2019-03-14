@@ -23,10 +23,10 @@ top: true
 在后面博文中，我将以
 >**定义**－－**定理／命题**－－**定理／命题解释**－－**证明思路**－－**迁移对比**－－**评论**
 
-的流程进行叙述，期望达到一种写意的效果。
+的流程进行叙述，期望达到一种**形神兼备**的效果。
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODUwNTUzNSwyMDAxOTAwMTU1LC0xNT
-A3NTg2NTA2LC0yNjI5NDg0MjhdfQ==
+eyJoaXN0b3J5IjpbMzAzNTQxODA2LDIwMDE5MDAxNTUsLTE1MD
+c1ODY1MDYsLTI2Mjk0ODQyOF19
 -->
