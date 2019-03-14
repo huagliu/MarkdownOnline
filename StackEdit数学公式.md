@@ -59,16 +59,35 @@ $$x= \int_0^1 \frac{y(t)}{5}{\rm d}t $$
 	\end{split}\end{equation}
 	$$
 	>代码：
-	
+	```
+	$$
+	\begin{equation}\begin{split}
+	H(Y|X)&=\sum_{x\in X} p(x)H(Y|X)\\
+	&=-\sum_{x\in X} p(x)\sum_{y\in Y}p(y|x)\log p(y|x)\\
+	&=-\sum_{x\in X} \sum_{y\in Y}p(y,x)\log p(y|x)
+	\end{split}\end{equation}
+	$$
+	```
 	- 使用"eqnarray":(Maxwell equs)
 	$$
-\begin{eqnarray}
-\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon0} \\
-\nabla\cdot\vec{B} &=& 0 \\
-\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\
-\nabla\times\vec{B} &=& \mu0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)
-\end{eqnarray}
-$$
+	\begin{eqnarray}
+	\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon0} \\
+	\nabla\cdot\vec{B} &=& 0 \\
+	\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\
+	\nabla\times\vec{B} &=&\mu0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)
+	\end{eqnarray}
+	$$
+	>代码：
+	```
+	$$
+	\begin{eqnarray}
+	\nabla\cdot\vec{E} &=& \frac{\rho}{\epsilon0} \\
+	\nabla\cdot\vec{B} &=& 0 \\
+	\nabla\times\vec{E} &=& -\frac{\partial B}{\partial t} \\
+	\nabla\times\vec{B} &=&\mu0\left(\vec{J}+\epsilon_0\frac{\partial E}{\partial t} \right)
+	\end{eqnarray}
+	$$
+	```
 
 - 简单矩阵
 $$\begin{pmatrix}
@@ -127,7 +146,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5NTk4MzI4LDEzMzczNTU0NCwxNjg2Mz
+eyJoaXN0b3J5IjpbLTk1NzQ1MDMzLDEzMzczNTU0NCwxNjg2Mz
 czNzI3LDE0MTMxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMs
 LTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
 c1NDkyOTksMjY2OTgyMDMwXX0=
