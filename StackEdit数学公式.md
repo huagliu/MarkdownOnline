@@ -81,7 +81,7 @@ $$\begin{array}{c|lll}
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-- 使用"mermaid"
+- 使用"mermaid"中的"sequenceDiagram"
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -105,6 +105,6 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAyMDYwMjEsMTg2MTg5ODIzNCwxNz
+eyJoaXN0b3J5IjpbLTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNz
 U0OTIyMDM3LDEzMjc1NDkyOTksMjY2OTgyMDMwXX0=
 -->
