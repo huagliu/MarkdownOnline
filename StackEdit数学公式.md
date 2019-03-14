@@ -10,7 +10,7 @@ mathjax: true
 
 ---
 
-Hexo博文的编写主要基于**Markdown**语言。**StackEdit**作为一款在线**Markdown**编写程序，有强大的数学兼容性，后续文章的编辑主要依靠**StackEdit（在线）**和**Mou（本地）**完成。这里将展示如何用 **StackEdit**编写：
+Hexo博文的编写主要基于**Markdown**语言。**StackEdit**作为一款在线**Markdown**编写程序，有强大的数学兼容性，后续文章的编辑主要依靠**StackEdit**和**Mou**完成。这里将展示如何用 **StackEdit**编写：
 
 - 基本数学公式；
 - 简单图表。
@@ -114,7 +114,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2MzQ3Nzc1LDE2ODYzNzM3MjcsMTQxMz
+eyJoaXN0b3J5IjpbMTMzNzM1NTQ0LDE2ODYzNzM3MjcsMTQxMz
 EyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUwMywtMTk5MzQxNjUw
 NCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNj
 Y5ODIwMzBdfQ==
