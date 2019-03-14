@@ -166,7 +166,7 @@ Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text d
 Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
->代码：（z）
+>代码：（这里用' . '代替' ` '）
 ```
 ...mermaid
 sequenceDiagram
@@ -190,8 +190,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDY2NzAzLDEzMzczNTU0NCwxNjg2Mz
-czNzI3LDE0MTMxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMs
-LTE5OTM0MTY1MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
-c1NDkyOTksMjY2OTgyMDMwXX0=
+eyJoaXN0b3J5IjpbLTExOTczODgyMjQsMTMzNzM1NTQ0LDE2OD
+YzNzM3MjcsMTQxMzEyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUw
+MywtMTk5MzQxNjUwNCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMT
+MyNzU0OTI5OSwyNjY5ODIwMzBdfQ==
 -->
