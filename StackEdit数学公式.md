@@ -3,8 +3,8 @@
 title: StackEdit数学公式及图表总结
 date: 2019-03-14
 tags: 
-	数学公式
-	图表
+	- 数学公式
+	- 图表
 categories: Math
 mathjax: true
 
@@ -114,8 +114,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDM1ODQ4NDUsMTY4NjM3MzcyNywxND
-EzMTIxNDEsMjA1OTAwMDgyNywtOTcwOTk2NTAzLC0xOTkzNDE2
-NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMzI3NTQ5Mjk5LD
-I2Njk4MjAzMF19
+eyJoaXN0b3J5IjpbLTMwOTQyNzIzOSwxNjg2MzczNzI3LDE0MT
+MxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMsLTE5OTM0MTY1
+MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMjc1NDkyOTksMj
+Y2OTgyMDMwXX0=
 -->
