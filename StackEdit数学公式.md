@@ -81,7 +81,7 @@ $$\begin{array}{c|lll}
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-- 使用"mermaid"中的"sequenceDiagram"
+- 使用"mermaid"中的"sequenceDiagram"画顺序图
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -104,7 +104,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDk5NjUwMywtMTk5MzQxNjUwNCwxOD
-YxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNjY5ODIw
-MzBdfQ==
+eyJoaXN0b3J5IjpbMjA1OTAwMDgyNywtOTcwOTk2NTAzLC0xOT
+kzNDE2NTA0LDE4NjE4OTgyMzQsMTc1NDkyMjAzNywxMzI3NTQ5
+Mjk5LDI2Njk4MjAzMF19
 -->
