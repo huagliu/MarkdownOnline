@@ -14,7 +14,7 @@ top: true
 <!-- more -->
 
 ## 开Blog目的
-这个Blog主要用于记录和整理一些课上笔记或者自学内容，wei lai
+这个Blog主要用于记录和整理一些课上笔记或者自学内容，一些有趣的paper也会在这里进行介绍。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY1NjUxNjksLTI2Mjk0ODQyOF19
+eyJoaXN0b3J5IjpbLTEzMTA0MzE4NjIsLTI2Mjk0ODQyOF19
 -->
