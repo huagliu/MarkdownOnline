@@ -81,7 +81,7 @@ $$\begin{array}{c|lll}
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-- 使用"mermaid"中的"sequenceDiagram"构造图
+- 使用"mermaid"中的"sequenceDiagram"
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -94,7 +94,7 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-- 使用"mermaid"中的"graph LR"hua流程图
+- 使用"mermaid"中的"graph LR"画流程图
 ```mermaid
 graph LR
 A[Square Rect] -- Link text --> B((Circle))
@@ -104,7 +104,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzc2NTYzMCwtMTk5MzQxNjUwNCwxOD
+eyJoaXN0b3J5IjpbLTk3MDk5NjUwMywtMTk5MzQxNjUwNCwxOD
 YxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNjY5ODIw
 MzBdfQ==
 -->
