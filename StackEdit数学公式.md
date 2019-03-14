@@ -1,6 +1,6 @@
 
 ---
-title: 数学公式及表格总结
+title: MD数学公式及表格总结
 date: 2019-03-14
 tags: 
 	数学公式
@@ -114,8 +114,8 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDY0ODgxLDE2ODYzNzM3MjcsMTQxMz
-EyMTQxLDIwNTkwMDA4MjcsLTk3MDk5NjUwMywtMTk5MzQxNjUw
-NCwxODYxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNj
-Y5ODIwMzBdfQ==
+eyJoaXN0b3J5IjpbLTY1Mzk0MzY4NiwxNjg2MzczNzI3LDE0MT
+MxMjE0MSwyMDU5MDAwODI3LC05NzA5OTY1MDMsLTE5OTM0MTY1
+MDQsMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMjc1NDkyOTksMj
+Y2OTgyMDMwXX0=
 -->
