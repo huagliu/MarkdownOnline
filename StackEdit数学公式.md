@@ -81,12 +81,7 @@ $$\begin{array}{c|lll}
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-
-
-## UML diagrams
-
-You can render UML diagrams using [Mermaid](https://mermaidjs.github.io/). For example, this will produce a sequence diagram:
-
+- 使用"mermaid"
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -110,6 +105,6 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMj
-c1NDkyOTksMjY2OTgyMDMwXX0=
+eyJoaXN0b3J5IjpbLTEzNzAyMDYwMjEsMTg2MTg5ODIzNCwxNz
+U0OTIyMDM3LDEzMjc1NDkyOTksMjY2OTgyMDMwXX0=
 -->
