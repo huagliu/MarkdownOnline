@@ -81,7 +81,7 @@ $$\begin{array}{c|lll}
 |Quotes          |`"Isn't this fun?"`            |"Isn't this fun?"            |
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
-- 使用"mermaid"中的"sequenceDiagram"
+- 使用"mermaid"中的"sequenceDiagram"构造图
 ```mermaid
 sequenceDiagram
 Alice ->> Bob: Hello Bob, how are you?
@@ -94,7 +94,6 @@ Bob-->Alice: Checking with John...
 Alice->John: Yes... John, how are you?
 ```
 
-And this will produce a flow chart:
 
 ```mermaid
 graph LR
@@ -105,7 +104,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3Njc3OTE4LC0xOTkzNDE2NTA0LDE4Nj
-E4OTgyMzQsMTc1NDkyMjAzNywxMzI3NTQ5Mjk5LDI2Njk4MjAz
-MF19
+eyJoaXN0b3J5IjpbLTE0NjExMDMwNiwtMTk5MzQxNjUwNCwxOD
+YxODk4MjM0LDE3NTQ5MjIwMzcsMTMyNzU0OTI5OSwyNjY5ODIw
+MzBdfQ==
 -->
