@@ -4,7 +4,7 @@ title: 数学公式及表格总结
 date: 2019-03-14
 tags: 
 	数学公式
-	表格
+	图表
 categories: Math
 mathjax: true
 
@@ -105,7 +105,7 @@ C --> D
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg0NDY5ODgsLTE5OTM0MTY1MDQsMT
-g2MTg5ODIzNCwxNzU0OTIyMDM3LDEzMjc1NDkyOTksMjY2OTgy
-MDMwXX0=
+eyJoaXN0b3J5IjpbMzA3Njc3OTE4LC0xOTkzNDE2NTA0LDE4Nj
+E4OTgyMzQsMTc1NDkyMjAzNywxMzI3NTQ5Mjk5LDI2Njk4MjAz
+MF19
 -->
