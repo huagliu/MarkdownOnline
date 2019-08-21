@@ -82,4 +82,8 @@ $ hexo server
 <p>运行以下代码，可将草稿中的文件移动到<code>/Blog/source/_posts/</code>当中。</p>
 <pre><code>$ hexo publish &lt;title&gt;
 </code></pre>
+<p>最后运行</p>
+<pre><code>$ hexo deploy
+</code></pre>
+<p>将文章部署到Github个人网站上。</p>
 
